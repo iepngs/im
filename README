@@ -1,0 +1,7 @@
+create at 2016-05-20 18:58
+based on express + ejs
+
+Run by pm2
+
+pm2 -h
+PORT 8000 pm2 start app.js --watch
